@@ -1,0 +1,7 @@
+name: ServerStopper
+main: ErkamKahriman\ServerStopper
+version: 1.0
+api: 3.0.1
+author: ErkamKahriman
+website: https://erkamkahriman.ml
+prefix: "§cServerStopper§r"
